@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a developer Junior.
+
+I want learning about everything about front & back. NO CHOICE.
+
+
 <!--
 **AmelieAlonah/AmelieAlonah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
