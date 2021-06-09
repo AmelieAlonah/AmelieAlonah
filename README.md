@@ -1,21 +1,16 @@
-### Hi there 👋
+### Hello there 👋
 
-I'm a developer Junior.
+✨I'm a developer Junior.✨
 
-I want learning about everything about front & back. NO CHOICE.
+I want learning about everything about front & back. 😄
+<br>
+<br>
+I learn for front-end developement : 
 
+| HTML5 | CSS3 | Javascript | Frameworks => I will learn Vue.js && React.
+<br>
+<br>
+I learn for back-end developement : 
 
-<!--
-**AmelieAlonah/AmelieAlonah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| MariaDB | SQL | PHP | Frameworks => I will learn Symfony && Laravel.
+<br>
