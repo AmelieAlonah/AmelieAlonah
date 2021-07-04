@@ -2,7 +2,7 @@
 
 ✨I'm a developer Junior.✨
 
-I want learning about everything about front & back. 😄
+I want learning about everything about front & back & litle about DevoOps too. 😄
 <br>
 <br>
 I learn for front-end developement : 
