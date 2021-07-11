@@ -17,4 +17,4 @@ I learn for back-end developement :
 
 |-|
 
-Vous pouvez voir mon évolution techniques acquises lors de mon bootcamp, sur l'ensemble de mes repositories qui commencent par BootCamp/ 😊
+Vous pouvez voir mes évolutions techniques acquises lors de mon bootcamp, sur l'ensemble de mes repositories qui commencent par BootCamp/ 😊
