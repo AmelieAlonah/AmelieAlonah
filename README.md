@@ -12,7 +12,7 @@ I learn for front-end developement :
 <br>
 I learn for back-end developement : 
 
-| MariaDB | SQL | PHP | Frameworks => Lumen && I will learn Symfony && Laravel.
+| MariaDB | SQL | PHP | Frameworks => Lumen && Symfony && I will learn Laravel.
 <br>
 
 |-|
