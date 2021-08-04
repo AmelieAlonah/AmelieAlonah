@@ -90,6 +90,12 @@ Vous pouvez voir mes évolutions techniques acquises lors de mon bootcamp, sur l
     </td>
       <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech" >
+        <img src="https://img.icons8.com/color/48/000000/notion--v1.png" width="48" height="48" alt="Notion" />
+      </a>
+      <br>Notion
+    </td>
+      <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
