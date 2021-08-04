@@ -18,3 +18,7 @@ I learn for back-end developement :
 |-|
 
 Vous pouvez voir mes évolutions techniques acquises lors de mon bootcamp, sur l'ensemble de mes repositories qui commencent par BootCamp/ 😊
+
+
+<p align="center">
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=thalesbmc&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/></p>
