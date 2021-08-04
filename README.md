@@ -130,6 +130,6 @@ Vous pouvez voir mes évolutions techniques acquises lors de mon bootcamp, sur l
   [AmelieAlonah's GitHub stats]
   </h1>
 <p align="center">
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=AmelieAlonah&hide=stars&show_icons=true&count_private=true&theme=radical"
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=AmelieAlonah&hide=stars&show_icons=true&count_private=false&theme=radical"
 
 </p>
