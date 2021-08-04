@@ -54,37 +54,21 @@ Vous pouvez voir mes évolutions techniques acquises lors de mon bootcamp, sur l
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="48" height="48" alt="JS" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="Bootstrap" />
       </a>
-      <br>JS
+      <br>Bootstrap
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="48" height="48" alt="C++" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="48" height="48" alt="JS" />
       </a>
-      <br>C++
-    </td>
-    <tr>
+      <br>JS
      <td align="center" width="140" height="112.43">
       <a href="#macropower-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#
-    </td>
-    </br>
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-
   <td align="center"  width="140" height="112.43">
   <a href="#macropower-tech">
        <img src="https://icons.iconarchive.com/icons/icons8/ios7/64/Network-Security-Aes-icon.png" width="48" height="48" alt="AES" />
