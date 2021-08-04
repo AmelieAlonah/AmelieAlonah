@@ -60,6 +60,12 @@ Vous pouvez voir mes évolutions techniques acquises lors de mon bootcamp, sur l
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" width="48" height="48" alt="Bulma" />
+      </a>
+      <br>Bulma
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="48" height="48" alt="JS" />
       </a>
       <br>JS
@@ -69,10 +75,6 @@ Vous pouvez voir mes évolutions techniques acquises lors de mon bootcamp, sur l
       </a>
       <br>Git
     </td>
-  <td align="center"  width="140" height="112.43">
-  <a href="#macropower-tech">
-       <img src="https://icons.iconarchive.com/icons/icons8/ios7/64/Network-Security-Aes-icon.png" width="48" height="48" alt="AES" />
-  </a>
 </table>
 
 <p align="center">
