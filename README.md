@@ -22,36 +22,11 @@ Vous pouvez voir mes évolutions techniques acquises lors de mon bootcamp, sur l
 
 <table align= "center">
   <tr>
-    <td align="center" width="140" height="112.43">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="PHP" />
-      </a>
-      <br>VisualStudioCode
-    </td>
     <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" width="48" height="48" alt="MySQL" />
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
       </a>
-      <br>Trello
-    </td>
-     <td align="center" width="140" height="112.43">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-    <td align="center" width="140" height="112.43">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" width="48" height="48" alt="Symfony" />
-      </a>
-      <br>Symfony
-    </td>
-    
-    <td align="center"  width="140" height="112.43">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
+      <br>HTML5
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
@@ -73,15 +48,77 @@ Vous pouvez voir mes évolutions techniques acquises lors de mon bootcamp, sur l
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="48" height="48" alt="JS" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>JS
+      <br>JavaScript
+    </td>
+    <td align="center" width="140" height="112.43">
+      <a href="#macropower-tech" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" width="48" height="48" alt="Composer" />
+      </a>
+      <br>Composer
+    </td>
      <td align="center" width="140" height="112.43">
+      <a href="#macropower-tech" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
+    </td>
+    <td align="center" width="140" height="112.43">
+      <a href="#macropower-tech" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" width="48" height="48" alt="Symfony" />
+      </a>
+      <br>Symfony
+    </td>
+    <td align="center" width="140" height="112.43">
+      <a href="#macropower-tech" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/doctrine/doctrine-plain-wordmark.svg" width="48" height="48" alt="Doctrine" />
+      </a>
+      <br>Doctrine
+    </td>
+    <tr><td align="center" width="140" height="112.43">
+      <a href="#macropower-tech" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="VisualStudioCode" />
+      </a>
+      <br>VisualStudioCode
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" width="48" height="48" alt="Trello" />
+      </a>
+      <br>Trello
+    </td>
+      <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+      <td align="center" width="140" height="112.43">
       <a href="#macropower-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
+    <td align="center" width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+      </a>
+      <br>GitHub
+    </td>
+      <td align="center" width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" width="48" height="48" alt="Apache" />
+      </a>
+      <br>Apache
+    </td>
+      <td align="center" width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+      </th>
 </table>
 
 <p align="center">
