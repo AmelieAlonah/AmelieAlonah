@@ -22,6 +22,18 @@ Vous pouvez voir mes évolutions techniques acquises lors de mon bootcamp, sur l
 
 <table align= "center">
   <tr>
+    <td align="center" width="140" height="112.43">
+      <a href="#macropower-tech" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="PHP" />
+      </a>
+      <br>VisualStudioCode
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>Trello
+    </td>
      <td align="center" width="140" height="112.43">
       <a href="#macropower-tech" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
