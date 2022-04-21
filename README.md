@@ -10,6 +10,7 @@ I started to learn development in Bootcamp, and continue my studies in info scho
 * 🖥️  See my portfolio at [My website](http://ameliedev.fr)
 * ✉️  You can contact me at [contact@ameliedev.fr](mailto:contact@ameliedev.fr)
 * 🚀  I'm currently working on [My blog](http://noob-de-dev.fr)
+* 🦄  My assesfirst profile [Here](https://app.assessfirst.com/_/profile/9h7jahx4-amelie-abdallah)
 * 🧠  I'm learning software architecture, Node.js.
 * 🤝  I'm open to collaborating on little projects
 * ⚡  My favorite color is RED
