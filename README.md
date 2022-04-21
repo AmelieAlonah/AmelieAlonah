@@ -7,9 +7,9 @@ I'm junior fullstack developer
 I started to learn development in Bootcamp, and continue my studies in info school. You can watch my first works, they start with "Bootcamp/", and watch my first project at [MyPillsBox](https://mypillsbox.herokuapp.com/).
 
 * 🌍  I'm based in Nantes
-* 🖥️  See my portfolio at [My website](http://ameliedev.fr)
+* 🖥️  See my portfolio at [My website](https://ameliedev.fr)
 * ✉️  You can contact me at [contact@ameliedev.fr](mailto:contact@ameliedev.fr)
-* 🚀  I'm currently working on [My blog](http://noob-de-dev.fr)
+* 🚀  I'm currently working on [My blog](https://noob-de-dev.fr)
 * 🦄  My assesfirst profile [Here](https://app.assessfirst.com/_/profile/9h7jahx4-amelie-abdallah)
 * 🧠  I'm learning software architecture, Node.js.
 * 🤝  I'm open to collaborating on little projects
