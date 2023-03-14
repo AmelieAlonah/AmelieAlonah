@@ -14,6 +14,7 @@ I started to learn development in Bootcamp, and continue my studies in info scho
 * 🧠  I'm learning software architecture, Node.js.
 * 🤝  I'm open to collaborating on little projects
 * ⚡  My favorite color is RED
+* 🎤  I'm speaker to, you can see my playlist [here](https://www.youtube.com/watch?v=xNBmpt6d7o8&list=PLPgvj4iR9P44BsagIk5x6aNp1wiF2NZnV)
 
 <a href="https://www.twitter.com/AlonahAmelie" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/AlonahAmelie?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"
